@@ -1,0 +1,10 @@
+unHEXme 22001
+CalculateMe 22002
+
+newtask
+
+name=None, link=None, price=None, info=None, answer="1337"
+
+newtask UnHEXme 192.168.1.105:22001 go! 52415042917b95f4
+newtask CalculateIt 192.168.1.105:22002 go! dc212708f721b788
+newtask WhatIsIt 192.168.1.105:22003 go! af15e510fc8e679a

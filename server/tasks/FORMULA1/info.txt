@@ -1,0 +1,5 @@
+FORMULA 1
+There is a track in the format | <_> (each underscore - 50 km) | need to calculate how many 
+minutes it is possible to overcome the routes are, as one moves from the preset speeds
+\nExample trace: | 20_______ | 40________ | 20______ | 60_______ | 90______ | 40_ | 20__ |
+9091

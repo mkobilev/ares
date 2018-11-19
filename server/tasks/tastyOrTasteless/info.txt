@@ -1,0 +1,8 @@
+TASTY/TASTELESS
+Robots love to play the game Tasty / Tasteless ( well, or edible / inedible )
+Since many robots with the tastes and preferences are different (just like people !)
+by the rules of the game in the beginning of the leading robot tells the things which he considers tasty ( passed a list of strings )
+Then the leader says the name of the subject , and the player has to answer , TASTY this thing or not (TASTELESS)
+However, all modern robots have powerful processors , so even a second to think for them a very long time , and if
+a player thinks about the answer for a long time , the robot leader believes that the player does not know the correct answer.
+9090

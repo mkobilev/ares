@@ -1,0 +1,175 @@
+{
+    "date": "2013-11-12", 
+    "id": "50ae6cb1-35e3-4f1c-b31c-496f8e60cdaf", 
+    "ips": [
+        "192.168.1.102", 
+        "192.168.1.106", 
+        "192.168.1.109", 
+        "192.168.1.107", 
+        "192.168.1.108", 
+        "192.168.1.111", 
+        "192.168.1.112"
+    ], 
+    "name": "DEBUG", 
+    "tasks": [
+        {
+            "answer": "498a7547xf91f4f1", 
+            "id": "213cbd95-daba-49eb-b9a5-d4de4b1fba3c", 
+            "info": "There is a track in the format | <_> (each underscore - 50 km) | need to calculate how many \nminutes it is possible to overcome the routes are, as one moves from the preset speeds\nExample trace: | 20_______ | 40________ | 20______ | 60_______ | 90______ | 40_ | 20__ |", 
+            "link": "192.168.1.102:9091", 
+            "name": "Formula", 
+            "price": "300"
+        }, 
+        {
+            "answer": "5f726f6f745f0d0a", 
+            "id": "b68e9c5d-5ebb-4a81-9754-bf6882a9f11c", 
+            "info": "I_love_reading!", 
+            "link": "192.168.1.104:4444", 
+            "name": "Hamlet", 
+            "price": "1000"
+        }, 
+        {
+            "answer": "66bd8ec61345512d", 
+            "id": "1b004340-f1a6-409f-b050-a992b28197be", 
+            "info": "You are given a number. \nTo compute the nearest power of two from the bottom.", 
+            "link": "192.168.1.102:9092", 
+            "name": "Power_Of_Two", 
+            "price": "150"
+        }, 
+        {
+            "answer": "4e75906c57a929eb", 
+            "id": "cdb86d2c-b30c-4884-b65c-7215cb062097", 
+            "info": "Robots love to play the game Tasty / Tasteless ( well, or edible / inedible )\nSince many robots with the tastes and preferences are different (just like people !)\nby the rules of the game in the beginning of the leading robot tells the things which he considers tasty ( passed a list of strings )\nThen the leader says the name of the subject , and the player has to answer , TASTY this thing or not (TASTELESS)\nHowever, all modern robots have powerful processors , so even a second to think for them a very long time , and if\na player thinks about the answer for a long time , the robot leader believes that the player does not know the correct answer.", 
+            "link": "192.168.1.102:9090", 
+            "name": "Tasty_Or_Tasteless", 
+            "price": "500"
+        }, 
+        {
+            "answer": "154afd654cae654f", 
+            "id": "cdb86d2c-b30c-4884-b65c-7215cb062097", 
+            "info": "You should send file to server, which contains date in format %d.%d.%Y and it's size must be only 64 bytes.\nBut, before this you should send command SEND file-name.\nThen you would get the flag or not :3\n", 
+            "link": "192.168.1.100:8585", 
+            "name": "GiveMeFile", 
+            "price": "600"
+        },  
+        {
+            "answer": "52415042917b95f4", 
+            "id": "38335e12-6f68-42d1-91c7-68ba5029c110", 
+            "info": "go!", 
+            "link": "192.168.1.105:22001", 
+            "name": "UnHEXme", 
+            "price": "100"
+        }, 
+        {
+            "answer": "dc212708f721b788", 
+            "id": "741f1c42-a356-4cd7-8043-39d65c5243e2", 
+            "info": "go!", 
+            "link": "192.168.1.105:22002", 
+            "name": "CalculateIt", 
+            "price": "150"
+        }, 
+        {
+            "answer": "af15e510fc8e679a", 
+            "id": "b612b42b-5e26-4914-8445-289f8ca47e67", 
+            "info": "go!", 
+            "link": "192.168.1.105:22003", 
+            "name": "WhatIsIt", 
+            "price": "200"
+        }
+    ], 
+    "users": [
+        {
+            "bonus": 200, 
+            "bonus_info": {
+                "pass": 200
+            }, 
+            "id": "39505c06-589a-4ec8-a5af-e190f81e3515", 
+            "ip": "192.168.1.102", 
+            "key": "qwerty", 
+            "name": "KirillDK", 
+            "score": 100, 
+            "solved_tasks": []
+        }, 
+        {
+            "bonus": 300, 
+            "bonus_info": {
+                "pass": 300
+            }, 
+            "id": "8485beb1-7800-470c-9f05-9c40814924b9", 
+            "ip": "192.168.1.106", 
+            "key": "332223", 
+            "name": "NikaRomane", 
+            "score": 100, 
+            "solved_tasks": []
+        }, 
+        {
+            "bonus": 300, 
+            "bonus_info": {
+                "pass": 300
+            }, 
+            "id": "28bb2931-348c-4d57-b390-ac544eafba3c", 
+            "ip": "192.168.1.109", 
+            "key": "6317886", 
+            "name": "Stanislav", 
+            "score": 100, 
+            "solved_tasks": []
+        }, 
+        {
+            "bonus": 300, 
+            "bonus_info": {
+                "pass": 300
+            }, 
+            "id": "af4cdbb6-7a91-4aba-ad37-b400f9606919", 
+            "ip": "192.168.1.107", 
+            "key": "nevermind", 
+            "name": "Den", 
+            "score": 100, 
+            "solved_tasks": []
+        }, 
+        {
+            "bonus": 300, 
+            "bonus_info": {
+                "pass": 300
+            }, 
+            "id": "63a74c64-e384-4305-8e7f-eea1e33e53ea", 
+            "ip": "192.168.1.108", 
+            "key": "0412", 
+            "name": "A_A", 
+            "score": 100, 
+            "solved_tasks": []
+        }, 
+        {
+            "bonus": 300, 
+            "bonus_info": {
+                "pass": 300
+            }, 
+            "id": "9f55129e-c55d-4570-9520-cf93af736d0b", 
+            "ip": "192.168.1.111", 
+            "key": "331460", 
+            "name": "LenaLobova", 
+            "score": 100, 
+            "solved_tasks": []
+        }, 
+        {
+            "bonus": 200, 
+            "bonus_info": {
+                "pass": 200
+            }, 
+            "id": "94c9fa72-9132-4c1b-be83-f80bbca061cb", 
+            "ip": "192.168.1.112", 
+            "key": "77", 
+            "name": "VladKatya", 
+            "score": 100, 
+            "solved_tasks": []
+        }
+    ], 
+    "users_names": [
+        "KirillDK", 
+        "NikaRomane", 
+        "Stanislav", 
+        "Den", 
+        "A_A", 
+        "LenaLobova", 
+        "VladKatya"
+    ]
+}

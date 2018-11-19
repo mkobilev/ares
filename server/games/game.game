@@ -1,0 +1,56 @@
+{
+    "date": "2013-11-12", 
+    "id": "50ae6cb1-35e3-4f1c-b31c-496f8e60cdaf", 
+    "name": "DEBUG", 
+    "tasks": [
+        {
+            "answer": "498a7547xf91f4f1", 
+            "id": "213cbd95-daba-49eb-b9a5-d4de4b1fba3c", 
+            "info": "There is a track in the format | <_> (each underscore - 50 km) | need to calculate how many \nminutes it is possible to overcome the routes are, as one moves from the preset speeds\nExample trace: | 20_______ | 40________ | 20______ | 60_______ | 90______ | 40_ | 20__ |", 
+            "link": "192.168.1.102:9091", 
+            "name": "Formula-1", 
+            "price": "300"
+        }, 
+        {
+            "answer": "5f726f6f745f0d0a", 
+            "id": "b68e9c5d-5ebb-4a81-9754-bf6882a9f11c", 
+            "info": "I love reading!", 
+            "link": "192.168.1.104:4444", 
+            "name": "Hamlet", 
+            "price": "1000"
+        }, 
+        {
+            "answer": "66bd8ec61345512d", 
+            "id": "1b004340-f1a6-409f-b050-a992b28197be", 
+            "info": "You are given a number. \nTo compute the nearest power of two from the bottom.", 
+            "link": "192.168.1.102:9092", 
+            "name": "Power Of Two", 
+            "price": "150"
+        }, 
+        {
+            "answer": "4e75906c57a929eb", 
+            "id": "cdb86d2c-b30c-4884-b65c-7215cb062097", 
+            "info": "Robots love to play the game Tasty / Tasteless ( well, or edible / inedible )\nSince many robots with the tastes and preferences are different (just like people !)\nby the rules of the game in the beginning of the leading robot tells the things which he considers tasty ( passed a list of strings )\nThen the leader says the name of the subject , and the player has to answer , TASTY this thing or not (TASTELESS)\nHowever, all modern robots have powerful processors , so even a second to think for them a very long time , and if\na player thinks about the answer for a long time , the robot leader believes that the player does not know the correct answer.",
+            "link": "192.168.1.102:9090", 
+            "name": "Tasty Or Tasteless", 
+            "price": "500"
+        }, 
+        {
+            "answer": "154afd654cae654f", 
+            "id": "cdb86d2c-b30c-4884-b65c-7215cb062097", 
+            "info": "You should send file to server, which contains date in format %d.%d.%Y and it's size must be only 64 bytes.\nBut, before this you should send command SEND file-name.\nThen you would get the flag or not :3\n",
+            "link": "192.168.1.100:8585", 
+            "name": "GiveMeFile", 
+            "price": "600"
+        }, 
+        {
+            "answer": "1337", 
+            "id": "cdb86d2c-b30c-4884-b65c-7215cb062097", 
+            "info": "",
+            "link": "127.0.0.1:9090", 
+            "name": "1337", 
+            "price": "400"
+        }
+    ], 
+    "users": []
+}

@@ -1,0 +1,154 @@
+{
+    "date": "2013-11-12", 
+    "id": "50ae6cb1-35e3-4f1c-b31c-496f8e60cdaf", 
+    "name": "DEBUG", 
+    "tasks": [
+        {
+            "answer": "1337", 
+            "id": "213cbd95-daba-49eb-b9a5-d4de4b1fba3c", 
+            "info": "info", 
+            "link": "link", 
+            "name": "TASK1", 
+            "price": "1500"
+        }, 
+        {
+            "answer": "1337", 
+            "id": "b68e9c5d-5ebb-4a81-9754-bf6882a9f11c", 
+            "info": "info", 
+            "link": "link", 
+            "name": "TASK2", 
+            "price": "1500"
+        }, 
+        {
+            "answer": "1337", 
+            "id": "1b004340-f1a6-409f-b050-a992b28197be", 
+            "info": "info", 
+            "link": "link", 
+            "name": "TASK3", 
+            "price": "1500"
+        }, 
+        {
+            "answer": "1337", 
+            "id": "cdb86d2c-b30c-4884-b65c-7215cb062097", 
+            "info": "info", 
+            "link": "link", 
+            "name": "TASK4", 
+            "price": "1500"
+        }, 
+        {
+            "answer": "1337", 
+            "id": "9cc3881f-619e-4449-a304-8453ab558cd4", 
+            "info": "info", 
+            "link": "link", 
+            "name": "TASK5", 
+            "price": "1500"
+        }
+    ], 
+    "users": [
+        {
+            "bonus": 0, 
+            "bonus_info": {
+                "strength": "Weak"
+            }, 
+            "id": "6e88fbd4-271e-46c4-ae73-0bc672acc66f", 
+            "ip": [
+                "127.0.0.1", 
+                8050
+            ], 
+            "key": "1337", 
+            "name": "max", 
+            "score": 0, 
+            "solved_tasks": []
+        }, 
+        {
+            "bonus": 0, 
+            "bonus_info": {
+                "strength": "Weak"
+            }, 
+            "id": "3d6934d9-3330-4b7b-8597-1e0cbd6f5b54", 
+            "ip": [
+                "127.0.0.1", 
+                8050
+            ], 
+            "key": "1337", 
+            "name": "serg", 
+            "score": 0, 
+            "solved_tasks": []
+        }, 
+        {
+            "bonus": 0, 
+            "bonus_info": {
+                "strength": "Weak"
+            }, 
+            "id": "bac55771-a389-4f0a-b04e-d56f616fb098", 
+            "ip": [
+                "127.0.0.1", 
+                8050
+            ], 
+            "key": "1337", 
+            "name": "denis", 
+            "score": 0, 
+            "solved_tasks": []
+        }, 
+        {
+            "bonus": 0, 
+            "bonus_info": {
+                "strength": "Weak"
+            }, 
+            "id": "366fd5f7-8806-43f4-9013-31e761d00261", 
+            "ip": [
+                "127.0.0.1", 
+                8050
+            ], 
+            "key": "1337", 
+            "name": "dmitry", 
+            "score": 0, 
+            "solved_tasks": []
+        }, 
+        {
+            "bonus": 0, 
+            "bonus_info": {
+                "strength": "Weak"
+            }, 
+            "id": "7a1adec7-03b1-4124-8cf6-5a2806eb488f", 
+            "ip": [
+                "127.0.0.1", 
+                8050
+            ], 
+            "key": "1337", 
+            "name": "anya", 
+            "score": 0, 
+            "solved_tasks": []
+        }, 
+        {
+            "bonus": 0, 
+            "bonus_info": {
+                "strength": "Weak"
+            }, 
+            "id": "6e7dd928-8b03-47b3-87df-9eb705c10600", 
+            "ip": [
+                "127.0.0.1", 
+                8050
+            ], 
+            "key": "1337", 
+            "name": "katya", 
+            "score": 0, 
+            "solved_tasks": []
+        }, 
+        {
+            "bonus": 0, 
+            "bonus_info": {
+                "strength": "Weak"
+            }, 
+            "id": "4b662841-b22c-4bb1-8070-c807bdd0d269", 
+            "ip": [
+                "127.0.0.1", 
+                8050
+            ], 
+            "key": "1337", 
+            "name": "dima", 
+            "score": 0, 
+            "solved_tasks": []
+        }
+    ]
+}
